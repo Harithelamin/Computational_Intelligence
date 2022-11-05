@@ -1,5 +1,5 @@
 # Computational_Intelligence
 Computational Intelligence
 
-#Deep neural networks 
+#Gender and age recognition using convolutional neural networks
 #https://oslomet.instructure.com/courses/24265/assignments/65857
