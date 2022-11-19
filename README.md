@@ -1,5 +1,2 @@
-# Computational_Intelligence
-Computational Intelligence
+# DNN
 
-#Gender and age recognition using convolutional neural networks
-#https://oslomet.instructure.com/courses/24265/assignments/65857
